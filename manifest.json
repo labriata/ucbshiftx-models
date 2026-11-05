@@ -1,0 +1,3480 @@
+{
+ "CA_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CA_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 9284737,
+    "raw": 13120684
+   },
+   {
+    "file": "CA_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 9285426,
+    "raw": 13123120
+   },
+   {
+    "file": "CA_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 9293851,
+    "raw": 13137556
+   },
+   {
+    "file": "CA_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 9291542,
+    "raw": 13135060
+   },
+   {
+    "file": "CA_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 9284037,
+    "raw": 13120384
+   }
+  ]
+ },
+ "CA_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CA_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 7820170,
+    "raw": 11367064
+   },
+   {
+    "file": "CA_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 7817741,
+    "raw": 11364760
+   },
+   {
+    "file": "CA_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 7821529,
+    "raw": 11368252
+   },
+   {
+    "file": "CA_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 7816194,
+    "raw": 11362384
+   },
+   {
+    "file": "CA_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 7820758,
+    "raw": 11369440
+   }
+  ]
+ },
+ "CB_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CB_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 8046370,
+    "raw": 11309104
+   },
+   {
+    "file": "CB_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 8050079,
+    "raw": 11315044
+   },
+   {
+    "file": "CB_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 8043291,
+    "raw": 11306284
+   },
+   {
+    "file": "CB_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 8038309,
+    "raw": 11298424
+   },
+   {
+    "file": "CB_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 8051639,
+    "raw": 11318404
+   }
+  ]
+ },
+ "CB_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CB_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 6775252,
+    "raw": 9791452
+   },
+   {
+    "file": "CB_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 6777482,
+    "raw": 9793672
+   },
+   {
+    "file": "CB_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 6778108,
+    "raw": 9793324
+   },
+   {
+    "file": "CB_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 6776482,
+    "raw": 9791020
+   },
+   {
+    "file": "CB_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 6774235,
+    "raw": 9788932
+   }
+  ]
+ },
+ "CD1_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CD1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 516271,
+    "raw": 711556
+   },
+   {
+    "file": "CD1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 516209,
+    "raw": 711628
+   },
+   {
+    "file": "CD1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 516249,
+    "raw": 711544
+   },
+   {
+    "file": "CD1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 515089,
+    "raw": 710200
+   },
+   {
+    "file": "CD1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 514365,
+    "raw": 709192
+   }
+  ]
+ },
+ "CD1_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CD1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 435807,
+    "raw": 615892
+   },
+   {
+    "file": "CD1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 435819,
+    "raw": 616252
+   },
+   {
+    "file": "CD1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 436366,
+    "raw": 616696
+   },
+   {
+    "file": "CD1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 436618,
+    "raw": 616900
+   },
+   {
+    "file": "CD1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 436248,
+    "raw": 616612
+   }
+  ]
+ },
+ "CD2_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CD2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 308314,
+    "raw": 423568
+   },
+   {
+    "file": "CD2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 308355,
+    "raw": 423544
+   },
+   {
+    "file": "CD2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 308508,
+    "raw": 423796
+   },
+   {
+    "file": "CD2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 308762,
+    "raw": 424132
+   },
+   {
+    "file": "CD2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 309068,
+    "raw": 424684
+   }
+  ]
+ },
+ "CD2_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CD2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 260602,
+    "raw": 363760
+   },
+   {
+    "file": "CD2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 261162,
+    "raw": 364516
+   },
+   {
+    "file": "CD2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 260622,
+    "raw": 363856
+   },
+   {
+    "file": "CD2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 262057,
+    "raw": 365656
+   },
+   {
+    "file": "CD2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 260835,
+    "raw": 364120
+   }
+  ]
+ },
+ "CD_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CD_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 394573,
+    "raw": 541372
+   },
+   {
+    "file": "CD_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 393709,
+    "raw": 539572
+   },
+   {
+    "file": "CD_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 393033,
+    "raw": 538120
+   },
+   {
+    "file": "CD_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 392916,
+    "raw": 538012
+   },
+   {
+    "file": "CD_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 393036,
+    "raw": 538288
+   }
+  ]
+ },
+ "CD_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CD_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 335725,
+    "raw": 468412
+   },
+   {
+    "file": "CD_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 335083,
+    "raw": 466888
+   },
+   {
+    "file": "CD_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 334728,
+    "raw": 466804
+   },
+   {
+    "file": "CD_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 334668,
+    "raw": 466948
+   },
+   {
+    "file": "CD_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 335081,
+    "raw": 467512
+   }
+  ]
+ },
+ "CE1_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CE1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 124912,
+    "raw": 168460
+   },
+   {
+    "file": "CE1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 124368,
+    "raw": 167872
+   },
+   {
+    "file": "CE1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 124385,
+    "raw": 167812
+   },
+   {
+    "file": "CE1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 124247,
+    "raw": 167668
+   },
+   {
+    "file": "CE1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 124576,
+    "raw": 168184
+   }
+  ]
+ },
+ "CE1_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CE1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 104713,
+    "raw": 145720
+   },
+   {
+    "file": "CE1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 104682,
+    "raw": 145432
+   },
+   {
+    "file": "CE1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 103866,
+    "raw": 144772
+   },
+   {
+    "file": "CE1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 104549,
+    "raw": 145588
+   },
+   {
+    "file": "CE1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 104390,
+    "raw": 144928
+   }
+  ]
+ },
+ "CE2_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CE2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 69279,
+    "raw": 92104
+   },
+   {
+    "file": "CE2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 69309,
+    "raw": 92296
+   },
+   {
+    "file": "CE2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 68499,
+    "raw": 91168
+   },
+   {
+    "file": "CE2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 69134,
+    "raw": 92032
+   },
+   {
+    "file": "CE2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 69222,
+    "raw": 92080
+   }
+  ]
+ },
+ "CE2_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CE2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 57605,
+    "raw": 79372
+   },
+   {
+    "file": "CE2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 57778,
+    "raw": 79612
+   },
+   {
+    "file": "CE2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 57761,
+    "raw": 79840
+   },
+   {
+    "file": "CE2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 57705,
+    "raw": 79576
+   },
+   {
+    "file": "CE2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 57590,
+    "raw": 79540
+   }
+  ]
+ },
+ "CE3_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CE3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 17957,
+    "raw": 23512
+   },
+   {
+    "file": "CE3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 17724,
+    "raw": 23200
+   },
+   {
+    "file": "CE3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 18034,
+    "raw": 23620
+   },
+   {
+    "file": "CE3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 17690,
+    "raw": 23200
+   },
+   {
+    "file": "CE3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 17936,
+    "raw": 23440
+   }
+  ]
+ },
+ "CE3_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CE3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 14267,
+    "raw": 20860
+   },
+   {
+    "file": "CE3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 13833,
+    "raw": 20788
+   },
+   {
+    "file": "CE3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 13893,
+    "raw": 20620
+   },
+   {
+    "file": "CE3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 14070,
+    "raw": 20620
+   },
+   {
+    "file": "CE3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 14382,
+    "raw": 20752
+   }
+  ]
+ },
+ "CE_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CE_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 189673,
+    "raw": 258748
+   },
+   {
+    "file": "CE_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 190457,
+    "raw": 259516
+   },
+   {
+    "file": "CE_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 190363,
+    "raw": 259372
+   },
+   {
+    "file": "CE_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 189223,
+    "raw": 257860
+   },
+   {
+    "file": "CE_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 189817,
+    "raw": 258844
+   }
+  ]
+ },
+ "CE_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CE_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 159678,
+    "raw": 221344
+   },
+   {
+    "file": "CE_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 159950,
+    "raw": 221128
+   },
+   {
+    "file": "CE_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 159958,
+    "raw": 221620
+   },
+   {
+    "file": "CE_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 159827,
+    "raw": 221344
+   },
+   {
+    "file": "CE_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 160360,
+    "raw": 222124
+   }
+  ]
+ },
+ "CG1_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CG1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 332245,
+    "raw": 456388
+   },
+   {
+    "file": "CG1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 332617,
+    "raw": 456820
+   },
+   {
+    "file": "CG1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 332872,
+    "raw": 457456
+   },
+   {
+    "file": "CG1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 332651,
+    "raw": 457156
+   },
+   {
+    "file": "CG1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 331825,
+    "raw": 455776
+   }
+  ]
+ },
+ "CG1_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CG1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 279527,
+    "raw": 393100
+   },
+   {
+    "file": "CG1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 279412,
+    "raw": 392356
+   },
+   {
+    "file": "CG1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 279561,
+    "raw": 392848
+   },
+   {
+    "file": "CG1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 279289,
+    "raw": 392392
+   },
+   {
+    "file": "CG1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 279255,
+    "raw": 392056
+   }
+  ]
+ },
+ "CG2_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CG2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 486826,
+    "raw": 669580
+   },
+   {
+    "file": "CG2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 487567,
+    "raw": 671176
+   },
+   {
+    "file": "CG2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 487186,
+    "raw": 670420
+   },
+   {
+    "file": "CG2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 485501,
+    "raw": 667804
+   },
+   {
+    "file": "CG2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 487204,
+    "raw": 670456
+   }
+  ]
+ },
+ "CG2_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CG2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 409388,
+    "raw": 577648
+   },
+   {
+    "file": "CG2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 409851,
+    "raw": 578260
+   },
+   {
+    "file": "CG2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 409356,
+    "raw": 577840
+   },
+   {
+    "file": "CG2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 409135,
+    "raw": 577564
+   },
+   {
+    "file": "CG2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 409542,
+    "raw": 577624
+   }
+  ]
+ },
+ "CG_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CG_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 1679204,
+    "raw": 2337844
+   },
+   {
+    "file": "CG_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 1677267,
+    "raw": 2334292
+   },
+   {
+    "file": "CG_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 1677982,
+    "raw": 2335012
+   },
+   {
+    "file": "CG_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 1678713,
+    "raw": 2336140
+   },
+   {
+    "file": "CG_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 1679109,
+    "raw": 2336740
+   }
+  ]
+ },
+ "CG_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CG_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 1413626,
+    "raw": 2009788
+   },
+   {
+    "file": "CG_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 1413336,
+    "raw": 2008888
+   },
+   {
+    "file": "CG_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 1415052,
+    "raw": 2011252
+   },
+   {
+    "file": "CG_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 1415639,
+    "raw": 2011624
+   },
+   {
+    "file": "CG_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 1414087,
+    "raw": 2010376
+   }
+  ]
+ },
+ "CH2_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CH2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 19897,
+    "raw": 26140
+   },
+   {
+    "file": "CH2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 19838,
+    "raw": 26056
+   },
+   {
+    "file": "CH2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 19841,
+    "raw": 26056
+   },
+   {
+    "file": "CH2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 19951,
+    "raw": 26128
+   },
+   {
+    "file": "CH2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 19758,
+    "raw": 25912
+   }
+  ]
+ },
+ "CH2_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CH2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 14672,
+    "raw": 21832
+   },
+   {
+    "file": "CH2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 14992,
+    "raw": 22024
+   },
+   {
+    "file": "CH2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 14615,
+    "raw": 22036
+   },
+   {
+    "file": "CH2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 14663,
+    "raw": 22096
+   },
+   {
+    "file": "CH2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 14675,
+    "raw": 21832
+   }
+  ]
+ },
+ "CZ2_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CZ2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 20592,
+    "raw": 27028
+   },
+   {
+    "file": "CZ2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 20044,
+    "raw": 26284
+   },
+   {
+    "file": "CZ2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 20497,
+    "raw": 26848
+   },
+   {
+    "file": "CZ2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 20376,
+    "raw": 26728
+   },
+   {
+    "file": "CZ2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 20712,
+    "raw": 27160
+   }
+  ]
+ },
+ "CZ2_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CZ2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 16459,
+    "raw": 23596
+   },
+   {
+    "file": "CZ2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 16361,
+    "raw": 23644
+   },
+   {
+    "file": "CZ2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 16167,
+    "raw": 23584
+   },
+   {
+    "file": "CZ2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 16126,
+    "raw": 23404
+   },
+   {
+    "file": "CZ2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 15899,
+    "raw": 23368
+   }
+  ]
+ },
+ "CZ3_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CZ3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 17895,
+    "raw": 23332
+   },
+   {
+    "file": "CZ3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 18045,
+    "raw": 23488
+   },
+   {
+    "file": "CZ3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 17737,
+    "raw": 23152
+   },
+   {
+    "file": "CZ3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 18167,
+    "raw": 23692
+   },
+   {
+    "file": "CZ3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 17880,
+    "raw": 23344
+   }
+  ]
+ },
+ "CZ3_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CZ3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 13898,
+    "raw": 20380
+   },
+   {
+    "file": "CZ3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 13643,
+    "raw": 20272
+   },
+   {
+    "file": "CZ3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 13672,
+    "raw": 20344
+   },
+   {
+    "file": "CZ3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 13971,
+    "raw": 20320
+   },
+   {
+    "file": "CZ3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 13938,
+    "raw": 20212
+   }
+  ]
+ },
+ "CZ_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "CZ_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 50978,
+    "raw": 67348
+   },
+   {
+    "file": "CZ_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 50571,
+    "raw": 66712
+   },
+   {
+    "file": "CZ_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 50852,
+    "raw": 67108
+   },
+   {
+    "file": "CZ_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 51000,
+    "raw": 67372
+   },
+   {
+    "file": "CZ_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 50869,
+    "raw": 67132
+   }
+  ]
+ },
+ "CZ_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "CZ_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 41107,
+    "raw": 57556
+   },
+   {
+    "file": "CZ_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 41143,
+    "raw": 57724
+   },
+   {
+    "file": "CZ_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 41746,
+    "raw": 57892
+   },
+   {
+    "file": "CZ_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 41120,
+    "raw": 57292
+   },
+   {
+    "file": "CZ_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 41723,
+    "raw": 57652
+   }
+  ]
+ },
+ "C_R0": {
+  "n_features": 275,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "C_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 6874289,
+    "raw": 9658936
+   },
+   {
+    "file": "C_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 6870311,
+    "raw": 9654496
+   },
+   {
+    "file": "C_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 6865408,
+    "raw": 9643792
+   },
+   {
+    "file": "C_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 6865656,
+    "raw": 9646912
+   },
+   {
+    "file": "C_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 6872681,
+    "raw": 9657196
+   }
+  ]
+ },
+ "C_R1": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "C_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 5780157,
+    "raw": 8355208
+   },
+   {
+    "file": "C_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 5782109,
+    "raw": 8356180
+   },
+   {
+    "file": "C_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 5785341,
+    "raw": 8361784
+   },
+   {
+    "file": "C_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 5781371,
+    "raw": 8356132
+   },
+   {
+    "file": "C_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 5783114,
+    "raw": 8357128
+   }
+  ]
+ },
+ "HA_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HA_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 6412718,
+    "raw": 9049552
+   },
+   {
+    "file": "HA_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 6409074,
+    "raw": 9044668
+   },
+   {
+    "file": "HA_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 6408275,
+    "raw": 9044584
+   },
+   {
+    "file": "HA_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 6410891,
+    "raw": 9047356
+   },
+   {
+    "file": "HA_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 6412493,
+    "raw": 9048604
+   }
+  ]
+ },
+ "HA_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HA_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 5415779,
+    "raw": 7857076
+   },
+   {
+    "file": "HA_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 5413540,
+    "raw": 7853836
+   },
+   {
+    "file": "HA_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 5415616,
+    "raw": 7858636
+   },
+   {
+    "file": "HA_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 5413322,
+    "raw": 7854004
+   },
+   {
+    "file": "HA_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 5414757,
+    "raw": 7857544
+   }
+  ]
+ },
+ "HB2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HB2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 1932889,
+    "raw": 2694172
+   },
+   {
+    "file": "HB2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 1933374,
+    "raw": 2694640
+   },
+   {
+    "file": "HB2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 1931218,
+    "raw": 2692468
+   },
+   {
+    "file": "HB2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 1928813,
+    "raw": 2689732
+   },
+   {
+    "file": "HB2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 1928991,
+    "raw": 2689852
+   }
+  ]
+ },
+ "HB2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HB2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 1633804,
+    "raw": 2324260
+   },
+   {
+    "file": "HB2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 1635194,
+    "raw": 2325916
+   },
+   {
+    "file": "HB2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 1634504,
+    "raw": 2325136
+   },
+   {
+    "file": "HB2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 1633606,
+    "raw": 2323408
+   },
+   {
+    "file": "HB2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 1633212,
+    "raw": 2322604
+   }
+  ]
+ },
+ "HB3_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HB3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 1794589,
+    "raw": 2503696
+   },
+   {
+    "file": "HB3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 1795877,
+    "raw": 2505388
+   },
+   {
+    "file": "HB3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 1794595,
+    "raw": 2503636
+   },
+   {
+    "file": "HB3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 1793950,
+    "raw": 2502952
+   },
+   {
+    "file": "HB3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 1794019,
+    "raw": 2502388
+   }
+  ]
+ },
+ "HB3_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HB3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 1519084,
+    "raw": 2164072
+   },
+   {
+    "file": "HB3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 1521159,
+    "raw": 2166376
+   },
+   {
+    "file": "HB3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 1520604,
+    "raw": 2165536
+   },
+   {
+    "file": "HB3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 1520260,
+    "raw": 2165620
+   },
+   {
+    "file": "HB3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 1520670,
+    "raw": 2165200
+   }
+  ]
+ },
+ "HB_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HB_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 715411,
+    "raw": 994852
+   },
+   {
+    "file": "HB_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 715862,
+    "raw": 995488
+   },
+   {
+    "file": "HB_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 719542,
+    "raw": 999460
+   },
+   {
+    "file": "HB_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 715003,
+    "raw": 994192
+   },
+   {
+    "file": "HB_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 718074,
+    "raw": 998332
+   }
+  ]
+ },
+ "HB_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HB_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 610395,
+    "raw": 864040
+   },
+   {
+    "file": "HB_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 608985,
+    "raw": 862672
+   },
+   {
+    "file": "HB_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 610224,
+    "raw": 863392
+   },
+   {
+    "file": "HB_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 610173,
+    "raw": 863848
+   },
+   {
+    "file": "HB_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 610315,
+    "raw": 863224
+   }
+  ]
+ },
+ "HD1_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HD1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 462404,
+    "raw": 643120
+   },
+   {
+    "file": "HD1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 463527,
+    "raw": 645916
+   },
+   {
+    "file": "HD1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 462692,
+    "raw": 643564
+   },
+   {
+    "file": "HD1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 463140,
+    "raw": 644440
+   },
+   {
+    "file": "HD1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 462890,
+    "raw": 644380
+   }
+  ]
+ },
+ "HD1_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HD1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 395705,
+    "raw": 559060
+   },
+   {
+    "file": "HD1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 395407,
+    "raw": 558544
+   },
+   {
+    "file": "HD1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 396183,
+    "raw": 559444
+   },
+   {
+    "file": "HD1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 396299,
+    "raw": 559972
+   },
+   {
+    "file": "HD1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 396792,
+    "raw": 560644
+   }
+  ]
+ },
+ "HD21_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HD21_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 83218,
+    "raw": 110788
+   },
+   {
+    "file": "HD21_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 82837,
+    "raw": 110080
+   },
+   {
+    "file": "HD21_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 82573,
+    "raw": 109900
+   },
+   {
+    "file": "HD21_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 82591,
+    "raw": 110008
+   },
+   {
+    "file": "HD21_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 83066,
+    "raw": 110608
+   }
+  ]
+ },
+ "HD21_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HD21_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 69811,
+    "raw": 95512
+   },
+   {
+    "file": "HD21_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 69477,
+    "raw": 95416
+   },
+   {
+    "file": "HD21_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 69709,
+    "raw": 95272
+   },
+   {
+    "file": "HD21_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 69736,
+    "raw": 95992
+   },
+   {
+    "file": "HD21_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 69594,
+    "raw": 95224
+   }
+  ]
+ },
+ "HD22_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HD22_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 83216,
+    "raw": 110632
+   },
+   {
+    "file": "HD22_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 82454,
+    "raw": 109804
+   },
+   {
+    "file": "HD22_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 82595,
+    "raw": 109864
+   },
+   {
+    "file": "HD22_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 82846,
+    "raw": 110236
+   },
+   {
+    "file": "HD22_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 82933,
+    "raw": 110332
+   }
+  ]
+ },
+ "HD22_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HD22_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 68978,
+    "raw": 94780
+   },
+   {
+    "file": "HD22_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 69739,
+    "raw": 95392
+   },
+   {
+    "file": "HD22_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 69762,
+    "raw": 95608
+   },
+   {
+    "file": "HD22_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 69703,
+    "raw": 95116
+   },
+   {
+    "file": "HD22_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 69433,
+    "raw": 95224
+   }
+  ]
+ },
+ "HD2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HD2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 674647,
+    "raw": 937972
+   },
+   {
+    "file": "HD2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 674884,
+    "raw": 938380
+   },
+   {
+    "file": "HD2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 675660,
+    "raw": 939400
+   },
+   {
+    "file": "HD2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 673786,
+    "raw": 937816
+   },
+   {
+    "file": "HD2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 675654,
+    "raw": 939112
+   }
+  ]
+ },
+ "HD2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HD2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 572779,
+    "raw": 810568
+   },
+   {
+    "file": "HD2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 573081,
+    "raw": 811432
+   },
+   {
+    "file": "HD2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 572068,
+    "raw": 809944
+   },
+   {
+    "file": "HD2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 572655,
+    "raw": 811324
+   },
+   {
+    "file": "HD2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 572653,
+    "raw": 810952
+   }
+  ]
+ },
+ "HD3_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HD3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 327436,
+    "raw": 448252
+   },
+   {
+    "file": "HD3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 326229,
+    "raw": 446488
+   },
+   {
+    "file": "HD3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 327221,
+    "raw": 447760
+   },
+   {
+    "file": "HD3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 326573,
+    "raw": 446980
+   },
+   {
+    "file": "HD3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 327720,
+    "raw": 448624
+   }
+  ]
+ },
+ "HD3_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HD3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 278902,
+    "raw": 389308
+   },
+   {
+    "file": "HD3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 278593,
+    "raw": 388660
+   },
+   {
+    "file": "HD3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 278185,
+    "raw": 387868
+   },
+   {
+    "file": "HD3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 278592,
+    "raw": 388408
+   },
+   {
+    "file": "HD3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 278990,
+    "raw": 389152
+   }
+  ]
+ },
+ "HE1_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 227417,
+    "raw": 310036
+   },
+   {
+    "file": "HE1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 229060,
+    "raw": 312016
+   },
+   {
+    "file": "HE1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 227834,
+    "raw": 310852
+   },
+   {
+    "file": "HE1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 228835,
+    "raw": 311560
+   },
+   {
+    "file": "HE1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 227594,
+    "raw": 310108
+   }
+  ]
+ },
+ "HE1_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 192534,
+    "raw": 269068
+   },
+   {
+    "file": "HE1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 193244,
+    "raw": 269308
+   },
+   {
+    "file": "HE1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 193169,
+    "raw": 269896
+   },
+   {
+    "file": "HE1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 192711,
+    "raw": 269488
+   },
+   {
+    "file": "HE1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 193259,
+    "raw": 269668
+   }
+  ]
+ },
+ "HE21_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE21_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 70031,
+    "raw": 93004
+   },
+   {
+    "file": "HE21_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 69510,
+    "raw": 92356
+   },
+   {
+    "file": "HE21_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 69145,
+    "raw": 91804
+   },
+   {
+    "file": "HE21_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 69013,
+    "raw": 91480
+   },
+   {
+    "file": "HE21_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 69054,
+    "raw": 91624
+   }
+  ]
+ },
+ "HE21_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE21_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 57248,
+    "raw": 79348
+   },
+   {
+    "file": "HE21_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 57676,
+    "raw": 80104
+   },
+   {
+    "file": "HE21_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 57546,
+    "raw": 79732
+   },
+   {
+    "file": "HE21_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 57563,
+    "raw": 80176
+   },
+   {
+    "file": "HE21_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 57694,
+    "raw": 80224
+   }
+  ]
+ },
+ "HE22_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE22_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 70362,
+    "raw": 93016
+   },
+   {
+    "file": "HE22_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 70381,
+    "raw": 93100
+   },
+   {
+    "file": "HE22_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 70365,
+    "raw": 93100
+   },
+   {
+    "file": "HE22_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 70128,
+    "raw": 92668
+   },
+   {
+    "file": "HE22_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 70238,
+    "raw": 92956
+   }
+  ]
+ },
+ "HE22_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE22_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 57155,
+    "raw": 79252
+   },
+   {
+    "file": "HE22_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 57714,
+    "raw": 79396
+   },
+   {
+    "file": "HE22_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 57427,
+    "raw": 79276
+   },
+   {
+    "file": "HE22_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 57686,
+    "raw": 79600
+   },
+   {
+    "file": "HE22_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 57644,
+    "raw": 79468
+   }
+  ]
+ },
+ "HE2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 295811,
+    "raw": 402808
+   },
+   {
+    "file": "HE2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 295893,
+    "raw": 403168
+   },
+   {
+    "file": "HE2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 294136,
+    "raw": 400420
+   },
+   {
+    "file": "HE2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 294603,
+    "raw": 401200
+   },
+   {
+    "file": "HE2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 295474,
+    "raw": 402232
+   }
+  ]
+ },
+ "HE2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 248361,
+    "raw": 346372
+   },
+   {
+    "file": "HE2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 248082,
+    "raw": 345928
+   },
+   {
+    "file": "HE2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 247882,
+    "raw": 346204
+   },
+   {
+    "file": "HE2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 247679,
+    "raw": 346108
+   },
+   {
+    "file": "HE2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 248013,
+    "raw": 346204
+   }
+  ]
+ },
+ "HE3_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 162032,
+    "raw": 218140
+   },
+   {
+    "file": "HE3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 161500,
+    "raw": 217444
+   },
+   {
+    "file": "HE3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 162285,
+    "raw": 218452
+   },
+   {
+    "file": "HE3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 161382,
+    "raw": 217300
+   },
+   {
+    "file": "HE3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 161531,
+    "raw": 217480
+   }
+  ]
+ },
+ "HE3_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 135891,
+    "raw": 188416
+   },
+   {
+    "file": "HE3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 135484,
+    "raw": 187720
+   },
+   {
+    "file": "HE3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 135946,
+    "raw": 188320
+   },
+   {
+    "file": "HE3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 135405,
+    "raw": 187948
+   },
+   {
+    "file": "HE3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 135436,
+    "raw": 187588
+   }
+  ]
+ },
+ "HE_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HE_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 70300,
+    "raw": 93364
+   },
+   {
+    "file": "HE_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 69976,
+    "raw": 92980
+   },
+   {
+    "file": "HE_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 69487,
+    "raw": 92344
+   },
+   {
+    "file": "HE_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 70649,
+    "raw": 93832
+   },
+   {
+    "file": "HE_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 70322,
+    "raw": 93352
+   }
+  ]
+ },
+ "HE_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HE_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 58363,
+    "raw": 80488
+   },
+   {
+    "file": "HE_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 58390,
+    "raw": 80524
+   },
+   {
+    "file": "HE_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 58123,
+    "raw": 80140
+   },
+   {
+    "file": "HE_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 58187,
+    "raw": 80092
+   },
+   {
+    "file": "HE_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 58442,
+    "raw": 80452
+   }
+  ]
+ },
+ "HG12_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG12_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 156636,
+    "raw": 212608
+   },
+   {
+    "file": "HG12_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 156424,
+    "raw": 212368
+   },
+   {
+    "file": "HG12_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 155733,
+    "raw": 211384
+   },
+   {
+    "file": "HG12_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 156169,
+    "raw": 211840
+   },
+   {
+    "file": "HG12_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 156891,
+    "raw": 212740
+   }
+  ]
+ },
+ "HG12_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG12_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 131819,
+    "raw": 183664
+   },
+   {
+    "file": "HG12_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 132364,
+    "raw": 183880
+   },
+   {
+    "file": "HG12_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 132393,
+    "raw": 184252
+   },
+   {
+    "file": "HG12_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 132414,
+    "raw": 184228
+   },
+   {
+    "file": "HG12_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 132008,
+    "raw": 183772
+   }
+  ]
+ },
+ "HG13_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG13_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 141823,
+    "raw": 191320
+   },
+   {
+    "file": "HG13_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 141382,
+    "raw": 190768
+   },
+   {
+    "file": "HG13_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 142083,
+    "raw": 191764
+   },
+   {
+    "file": "HG13_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 141170,
+    "raw": 190420
+   },
+   {
+    "file": "HG13_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 141251,
+    "raw": 190564
+   }
+  ]
+ },
+ "HG13_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG13_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 119889,
+    "raw": 166168
+   },
+   {
+    "file": "HG13_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 119816,
+    "raw": 165532
+   },
+   {
+    "file": "HG13_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 120237,
+    "raw": 165808
+   },
+   {
+    "file": "HG13_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 119237,
+    "raw": 164968
+   },
+   {
+    "file": "HG13_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 119501,
+    "raw": 165460
+   }
+  ]
+ },
+ "HG1_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 139173,
+    "raw": 190120
+   },
+   {
+    "file": "HG1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 138655,
+    "raw": 189616
+   },
+   {
+    "file": "HG1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 139089,
+    "raw": 190108
+   },
+   {
+    "file": "HG1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 139291,
+    "raw": 190348
+   },
+   {
+    "file": "HG1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 139770,
+    "raw": 191044
+   }
+  ]
+ },
+ "HG1_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 117452,
+    "raw": 164800
+   },
+   {
+    "file": "HG1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 117852,
+    "raw": 165112
+   },
+   {
+    "file": "HG1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 116730,
+    "raw": 164524
+   },
+   {
+    "file": "HG1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 117330,
+    "raw": 165316
+   },
+   {
+    "file": "HG1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 117313,
+    "raw": 164788
+   }
+  ]
+ },
+ "HG2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 1074635,
+    "raw": 1499152
+   },
+   {
+    "file": "HG2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 1073763,
+    "raw": 1498360
+   },
+   {
+    "file": "HG2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 1073009,
+    "raw": 1497136
+   },
+   {
+    "file": "HG2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 1072253,
+    "raw": 1495924
+   },
+   {
+    "file": "HG2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 1073668,
+    "raw": 1497448
+   }
+  ]
+ },
+ "HG2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 909340,
+    "raw": 1295368
+   },
+   {
+    "file": "HG2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 908980,
+    "raw": 1294624
+   },
+   {
+    "file": "HG2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 908360,
+    "raw": 1293712
+   },
+   {
+    "file": "HG2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 909017,
+    "raw": 1293964
+   },
+   {
+    "file": "HG2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 909425,
+    "raw": 1295776
+   }
+  ]
+ },
+ "HG3_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 652342,
+    "raw": 903988
+   },
+   {
+    "file": "HG3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 652785,
+    "raw": 905044
+   },
+   {
+    "file": "HG3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 652959,
+    "raw": 906220
+   },
+   {
+    "file": "HG3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 652852,
+    "raw": 905128
+   },
+   {
+    "file": "HG3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 652880,
+    "raw": 906148
+   }
+  ]
+ },
+ "HG3_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 558653,
+    "raw": 787108
+   },
+   {
+    "file": "HG3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 558807,
+    "raw": 788344
+   },
+   {
+    "file": "HG3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 558569,
+    "raw": 788536
+   },
+   {
+    "file": "HG3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 558267,
+    "raw": 786904
+   },
+   {
+    "file": "HG3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 557768,
+    "raw": 786844
+   }
+  ]
+ },
+ "HG_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HG_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 235705,
+    "raw": 321112
+   },
+   {
+    "file": "HG_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 236498,
+    "raw": 322276
+   },
+   {
+    "file": "HG_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 234949,
+    "raw": 319984
+   },
+   {
+    "file": "HG_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 235635,
+    "raw": 320980
+   },
+   {
+    "file": "HG_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 236639,
+    "raw": 322456
+   }
+  ]
+ },
+ "HG_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HG_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 199257,
+    "raw": 276040
+   },
+   {
+    "file": "HG_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 198899,
+    "raw": 276124
+   },
+   {
+    "file": "HG_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 198676,
+    "raw": 276004
+   },
+   {
+    "file": "HG_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 199314,
+    "raw": 276148
+   },
+   {
+    "file": "HG_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 199167,
+    "raw": 276400
+   }
+  ]
+ },
+ "HH2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HH2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 25871,
+    "raw": 33916
+   },
+   {
+    "file": "HH2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 26297,
+    "raw": 34360
+   },
+   {
+    "file": "HH2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 26191,
+    "raw": 34300
+   },
+   {
+    "file": "HH2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 26341,
+    "raw": 34456
+   },
+   {
+    "file": "HH2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 26072,
+    "raw": 34168
+   }
+  ]
+ },
+ "HH2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HH2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 19784,
+    "raw": 29176
+   },
+   {
+    "file": "HH2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 19988,
+    "raw": 29260
+   },
+   {
+    "file": "HH2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 19908,
+    "raw": 29356
+   },
+   {
+    "file": "HH2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 20047,
+    "raw": 29404
+   },
+   {
+    "file": "HH2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 19501,
+    "raw": 29212
+   }
+  ]
+ },
+ "HZ2_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HZ2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 27697,
+    "raw": 35968
+   },
+   {
+    "file": "HZ2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 27836,
+    "raw": 36184
+   },
+   {
+    "file": "HZ2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 27690,
+    "raw": 36052
+   },
+   {
+    "file": "HZ2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 27836,
+    "raw": 36232
+   },
+   {
+    "file": "HZ2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 27703,
+    "raw": 35980
+   }
+  ]
+ },
+ "HZ2_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HZ2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 22060,
+    "raw": 31756
+   },
+   {
+    "file": "HZ2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 22212,
+    "raw": 31852
+   },
+   {
+    "file": "HZ2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 22399,
+    "raw": 31708
+   },
+   {
+    "file": "HZ2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 22054,
+    "raw": 31528
+   },
+   {
+    "file": "HZ2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 21937,
+    "raw": 31456
+   }
+  ]
+ },
+ "HZ3_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HZ3_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 24532,
+    "raw": 32008
+   },
+   {
+    "file": "HZ3_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 24681,
+    "raw": 32164
+   },
+   {
+    "file": "HZ3_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 24570,
+    "raw": 32080
+   },
+   {
+    "file": "HZ3_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 24259,
+    "raw": 31696
+   },
+   {
+    "file": "HZ3_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 24332,
+    "raw": 31732
+   }
+  ]
+ },
+ "HZ3_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HZ3_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 18632,
+    "raw": 27832
+   },
+   {
+    "file": "HZ3_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 18322,
+    "raw": 27796
+   },
+   {
+    "file": "HZ3_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 17845,
+    "raw": 27604
+   },
+   {
+    "file": "HZ3_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 18764,
+    "raw": 27772
+   },
+   {
+    "file": "HZ3_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 18299,
+    "raw": 27856
+   }
+  ]
+ },
+ "HZ_R0": {
+  "n_features": 293,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "HZ_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 64335,
+    "raw": 85108
+   },
+   {
+    "file": "HZ_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 64784,
+    "raw": 85816
+   },
+   {
+    "file": "HZ_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 64521,
+    "raw": 85384
+   },
+   {
+    "file": "HZ_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 64701,
+    "raw": 85780
+   },
+   {
+    "file": "HZ_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 64185,
+    "raw": 85036
+   }
+  ]
+ },
+ "HZ_R1": {
+  "n_features": 294,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "HZ_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 53716,
+    "raw": 73924
+   },
+   {
+    "file": "HZ_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 53914,
+    "raw": 74008
+   },
+   {
+    "file": "HZ_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 53421,
+    "raw": 73408
+   },
+   {
+    "file": "HZ_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 53675,
+    "raw": 73684
+   },
+   {
+    "file": "HZ_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 53657,
+    "raw": 73828
+   }
+  ]
+ },
+ "H_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "H_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 8938239,
+    "raw": 12561100
+   },
+   {
+    "file": "H_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 8940264,
+    "raw": 12563320
+   },
+   {
+    "file": "H_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 8933296,
+    "raw": 12554932
+   },
+   {
+    "file": "H_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 8939766,
+    "raw": 12563572
+   },
+   {
+    "file": "H_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 8932382,
+    "raw": 12552208
+   }
+  ]
+ },
+ "H_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "H_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 7521049,
+    "raw": 10871044
+   },
+   {
+    "file": "H_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 7521134,
+    "raw": 10870240
+   },
+   {
+    "file": "H_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 7519833,
+    "raw": 10869448
+   },
+   {
+    "file": "H_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 7525818,
+    "raw": 10875724
+   },
+   {
+    "file": "H_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 7520549,
+    "raw": 10869892
+   }
+  ]
+ },
+ "ND2_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "ND2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 76631,
+    "raw": 103144
+   },
+   {
+    "file": "ND2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 76211,
+    "raw": 102760
+   },
+   {
+    "file": "ND2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 76294,
+    "raw": 102796
+   },
+   {
+    "file": "ND2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 76387,
+    "raw": 102880
+   },
+   {
+    "file": "ND2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 76819,
+    "raw": 103360
+   }
+  ]
+ },
+ "ND2_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "ND2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 64709,
+    "raw": 88816
+   },
+   {
+    "file": "ND2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 64850,
+    "raw": 88888
+   },
+   {
+    "file": "ND2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 64620,
+    "raw": 88744
+   },
+   {
+    "file": "ND2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 64633,
+    "raw": 89068
+   },
+   {
+    "file": "ND2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 64969,
+    "raw": 89224
+   }
+  ]
+ },
+ "NE1_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "NE1_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 33267,
+    "raw": 43576
+   },
+   {
+    "file": "NE1_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 33109,
+    "raw": 43432
+   },
+   {
+    "file": "NE1_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 33589,
+    "raw": 44032
+   },
+   {
+    "file": "NE1_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 33046,
+    "raw": 43240
+   },
+   {
+    "file": "NE1_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 33809,
+    "raw": 44368
+   }
+  ]
+ },
+ "NE1_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "NE1_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 27370,
+    "raw": 37900
+   },
+   {
+    "file": "NE1_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 27213,
+    "raw": 37456
+   },
+   {
+    "file": "NE1_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 27451,
+    "raw": 37828
+   },
+   {
+    "file": "NE1_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 27412,
+    "raw": 37864
+   },
+   {
+    "file": "NE1_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 27134,
+    "raw": 37756
+   }
+  ]
+ },
+ "NE2_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "NE2_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 65824,
+    "raw": 86968
+   },
+   {
+    "file": "NE2_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 66253,
+    "raw": 87736
+   },
+   {
+    "file": "NE2_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 65889,
+    "raw": 87244
+   },
+   {
+    "file": "NE2_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 65767,
+    "raw": 87016
+   },
+   {
+    "file": "NE2_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 66339,
+    "raw": 87784
+   }
+  ]
+ },
+ "NE2_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "NE2_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 54643,
+    "raw": 75904
+   },
+   {
+    "file": "NE2_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 54974,
+    "raw": 75652
+   },
+   {
+    "file": "NE2_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 54270,
+    "raw": 75292
+   },
+   {
+    "file": "NE2_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 54745,
+    "raw": 76000
+   },
+   {
+    "file": "NE2_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 54928,
+    "raw": 75556
+   }
+  ]
+ },
+ "N_R0": {
+  "n_features": 276,
+  "n_trees": 500,
+  "kind": "ExtraTreesRegressor",
+  "chunks": [
+   {
+    "file": "N_R0.0.bin.gz",
+    "trees": 100,
+    "bytes": 8714152,
+    "raw": 12235816
+   },
+   {
+    "file": "N_R0.1.bin.gz",
+    "trees": 100,
+    "bytes": 8705660,
+    "raw": 12224188
+   },
+   {
+    "file": "N_R0.2.bin.gz",
+    "trees": 100,
+    "bytes": 8706988,
+    "raw": 12224524
+   },
+   {
+    "file": "N_R0.3.bin.gz",
+    "trees": 100,
+    "bytes": 8711234,
+    "raw": 12231316
+   },
+   {
+    "file": "N_R0.4.bin.gz",
+    "trees": 100,
+    "bytes": 8708748,
+    "raw": 12227452
+   }
+  ]
+ },
+ "N_R1": {
+  "n_features": 277,
+  "n_trees": 500,
+  "kind": "RandomForestRegressor",
+  "chunks": [
+   {
+    "file": "N_R1.0.bin.gz",
+    "trees": 100,
+    "bytes": 7357458,
+    "raw": 10621672
+   },
+   {
+    "file": "N_R1.1.bin.gz",
+    "trees": 100,
+    "bytes": 7357667,
+    "raw": 10624168
+   },
+   {
+    "file": "N_R1.2.bin.gz",
+    "trees": 100,
+    "bytes": 7355499,
+    "raw": 10619140
+   },
+   {
+    "file": "N_R1.3.bin.gz",
+    "trees": 100,
+    "bytes": 7359207,
+    "raw": 10624780
+   },
+   {
+    "file": "N_R1.4.bin.gz",
+    "trees": 100,
+    "bytes": 7357771,
+    "raw": 10621876
+   }
+  ]
+ }
+}
